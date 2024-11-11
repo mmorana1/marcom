@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Marco Mirko Morana"
 description              : &description "personal description"
 url                      : https://mmorana1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/marcom"
 repository               : "marcom"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
