@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Marco Mirko Morana"
+  pronouns         : # example: "he"  
+  bio              : "My career in cyber-security spans more than 20 years working in different roles and industry sectors. As a author, besides co-authoring the book on risk centric threat modelling I wrote a book on application security risk management for CISOs and several white papers covering application and software security topics."
+  location         : "Georgia/USA"
+  employer         : "Self"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "marco.m.morana@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
