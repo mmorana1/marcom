@@ -21,7 +21,7 @@ repository               : "marcom"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Screen Shot 2015-07-18 at 11.08.11.jpeg"
   name             : "Marco Mirko Morana"
   pronouns         : # example: "he"  
   bio              : "My career in cyber-security spans more than 20 years working in different roles and industry sectors. As a author, besides co-authoring the book on risk centric threat modelling I wrote a book on application security risk management for CISOs and several white papers covering application and software security topics."
