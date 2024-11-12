@@ -18,16 +18,16 @@ Work experience
 ======
 
 * JP Morgan Chase Payments, North America, Tampa, FL 	May 2020 - September 2022
-** Executive Director, Head of Security Architecture
+- Executive Director, Head of Security Architecture
 
 * Citigroup, North America, Tampa, FL 	August 2016 - May 2020
-** Senior Vice President, Application Security Architect And Cloud Security Lead
+- Senior Vice President, Application Security Architect And Cloud Security Lead
 
 * Citigroup EMEA, London, UK 	October 2011 - July 2016
-** Senior Vice President, Application Security Architecture Risk Lead 
+- Senior Vice President, Application Security Architecture Risk Lead 
 
 * Citigroup USA, Cincinnati, OH 	March 2007 - October 2011
-Vice President, Senior Technology Information Security Officer 
+- Vice President, Senior Technology Information Security Officer 
 
 Publications
 ======
