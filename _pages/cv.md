@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSCSE, San Francisco Bay University, 1998
+* MSME, University of Padova, 1987
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* JP Morgan Chase Payments, North America, Tampa, FL 	May 2020 - September 2022
+** Executive Director, Head of Security Architecture
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Citigroup, North America, Tampa, FL 	August 2016 - May 2020
+** Senior Vice President, Application Security Architect And Cloud Security Lead
+
+* Citigroup EMEA, London, UK 	October 2011 - July 2016
+** Senior Vice President, Application Security Architecture Risk Lead 
+
+* Citigroup USA, Cincinnati, OH 	March 2007 - October 2011
+Vice President, Senior Technology Information Security Officer 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
