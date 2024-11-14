@@ -1,11 +1,11 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "OWASP Application Security Guide for CISOs"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: /talks/2012-November 16
+venue: "OWASP CISO Breakfast Meeting"
+date: 2012-11-16
+location: "Atlanta, Georgia"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+This document provides an overview of a presentation by Marco Morana from OWASP on developing an OWASP Application Security Guide for Chief Information Security Officers (CISOs). The presentation covers the need for such a guide given the evolving roles and responsibilities of CISOs. It outlines the guide's structure and contents to provide CISOs with strategic guidance on application security processes, metrics, and technology selection. A four step project plan is also presented for creating the guide based on input from the security community and CISO surveys. 
