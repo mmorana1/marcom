@@ -9,5 +9,6 @@ location: "Atlanta, Georgia"
 ---
 
 This document provides an overview of a presentation by Marco Morana from OWASP on developing an OWASP Application Security Guide for Chief Information Security Officers (CISOs). The presentation covers the need for such a guide given the evolving roles and responsibilities of CISOs. It outlines the guide's structure and contents to provide CISOs with strategic guidance on application security processes, metrics, and technology selection. A four step project plan is also presented for creating the guide based on input from the security community and CISO surveys.  
+
 You can download the presentation slides [from here](https://www.slideshare.net/slideshow/owasp-atlantacisoguidevs1/16928736) 
 The OWASP CISO Guide can be downloaded [from here](https://wiki.owasp.org/images/f/f0/Owasp-ciso-guide.docx) 
