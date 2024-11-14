@@ -11,4 +11,4 @@ paperurl: 'https://img2.helpnetsecurity.com/dl/insecure/INSECURE-Mag-15.pdf'
 citation: 'Marco Morana, (2008). &quot;Issue 15 .&quot; <i>InSecure Magazine</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Before to diagnose the disease and provide the cure a doctor looks at the root causes of the patient sikness, the risk factors and the symptoms. In the case of application security most of the root causes of the security issues are due to insecure software:  the risk factors can be found in how good or bad the application/product is security designed, coded and tested.
