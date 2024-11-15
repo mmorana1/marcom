@@ -1,5 +1,5 @@
 ---
-title: "Building Security in the Software Developmnent Life Cycle (SLDC), a business case"
+title: "Building Security in the Software Development Life Cycle (SLDC), a business case"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
