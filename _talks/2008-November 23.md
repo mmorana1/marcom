@@ -2,7 +2,7 @@
 title: "Application Threat Modeling"
 collection: talks
 type: "Talk"
-permalink: /talks/2008-November 23.md
+permalink: /talks/2008-November 23
 venue: "OWASP Cincinnati, OH, USA"
 date: 2008-11-23
 location: "Cincinnati, Ohio"
