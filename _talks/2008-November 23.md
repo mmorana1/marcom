@@ -1,14 +1,13 @@
 ---
-title: "OWASP Application Security Guide for CISOs"
+title: "Application Threat Modeling"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-November 16
-venue: "OWASP CISO Breakfast Meeting"
-date: 2012-11-16
-location: "Atlanta, Georgia"
+permalink: /talks/2008-November 23.md
+venue: "OWASP Cincinnati, OH, USA"
+date: 2008-11-23
+location: "Cincinnati, Ohio"
 ---
+This document discusses application threat modeling (ATM) as a systematic approach to identifying security risks in software applications. It describes how ATM can be used at different stages of the software development lifecycle, from requirements to design to testing. The key steps of ATM include decomposing the application, identifying threats and vulnerabilities, analyzing attack vectors, and determining mitigation strategies. ATM helps prioritize risks and supports decision making around risk acceptance, avoidance, or mitigation  
 
-This document provides an overview of a presentation by Marco Morana from OWASP on developing an OWASP Application Security Guide for Chief Information Security Officers (CISOs). The presentation covers the need for such a guide given the evolving roles and responsibilities of CISOs. It outlines the guide's structure and contents to provide CISOs with strategic guidance on application security processes, metrics, and technology selection. A four step project plan is also presented for creating the guide based on input from the security community and CISO surveys.  
+You can download the presentation slides [from here](https://www.slideshare.net/slideshow/application-threat-modeling-presentation/781073) 
 
-You can download the presentation slides [from here](https://www.slideshare.net/slideshow/owasp-atlantacisoguidevs1/16928736) 
-The OWASP CISO Guide can be downloaded [from here](https://wiki.owasp.org/images/f/f0/Owasp-ciso-guide.docx) 
