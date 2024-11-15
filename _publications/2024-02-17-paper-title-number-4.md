@@ -3,7 +3,7 @@ title: "Building Security in the Software Developmnent Life Cycle (SLDC), a busi
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Building Security in the Software Developmnent Life Cycle (SLDC), a business case'
+excerpt: 'Building Security in the Software Development Life Cycle (SLDC), a business case'
 date: 2006-8-1
 venue: 'BlackHat Conference, Las Vegas, USA'
 paperurl: 'https://www.slideshare.net/slideshow/software-security-business-case-presentation/792545'
