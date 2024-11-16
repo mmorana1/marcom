@@ -1,14 +1,14 @@
 ---
-title: "OWASP Application Security Guide for CISOs"
+title: "Software Security Initiatives"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-November 16
-venue: "OWASP CISO Breakfast Meeting"
-date: 2012-11-16
-location: "Atlanta, Georgia"
+permalink: /talks/2009-November 24
+venue: "OWASP-Application Security for E-Government"
+date: 2009-11-24
+location: "Milan, Italy"
 ---
 
-This document provides an overview of a presentation by Marco Morana from OWASP on developing an OWASP Application Security Guide for Chief Information Security Officers (CISOs). The presentation covers the need for such a guide given the evolving roles and responsibilities of CISOs. It outlines the guide's structure and contents to provide CISOs with strategic guidance on application security processes, metrics, and technology selection. A four step project plan is also presented for creating the guide based on input from the security community and CISO surveys.  
+This presentation outlines how to initiate a software security program within an organization using a maturity-based, metrics-driven approach. It suggests evaluating the current maturity level, establishing security standards and processes, and integrating security practices across the software development lifecycle (SDLC). Key metrics to monitor include the percentage of issues identified and resolved at each phase of the lifecycle, the average time to remediate vulnerabilities, and vulnerability density.
 
-You can download the presentation slides [from here](https://www.slideshare.net/slideshow/owasp-atlantacisoguidevs1/16928736) 
-The OWASP CISO Guide can be downloaded [from here](https://wiki.owasp.org/images/f/f0/Owasp-ciso-guide.docx) 
+You can download the presentation slides [from here](https://www.slideshare.net/slideshow/software-security-initiatives/2578777) 
+
