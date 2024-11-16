@@ -1,14 +1,13 @@
 ---
-title: "OWASP Application Security Guide for CISOs"
+title: "Software Security Engineering & Risk Management"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-November 16
+permalink: /talks/2008-October 29
 venue: "OWASP CISO Breakfast Meeting"
-date: 2012-11-16
-location: "Atlanta, Georgia"
+date: 2008-19-29
+location: "Rochester, NY"
 ---
 
-This document provides an overview of a presentation by Marco Morana from OWASP on developing an OWASP Application Security Guide for Chief Information Security Officers (CISOs). The presentation covers the need for such a guide given the evolving roles and responsibilities of CISOs. It outlines the guide's structure and contents to provide CISOs with strategic guidance on application security processes, metrics, and technology selection. A four step project plan is also presented for creating the guide based on input from the security community and CISO surveys.  
+The document outlines approaches for building secure web applications by establishing software security processes and assessing maturity levels. It covers essential security activities, such as threat modeling, defining security requirements, implementing secure coding standards, conducting security testing, and tracking relevant metrics. The business case for software security emphasizes reducing the costs associated with vulnerabilities, addressing threats to web applications, and mitigating root causes like application vulnerabilities and design flaws.
 
-You can download the presentation slides [from here](https://www.slideshare.net/slideshow/owasp-atlantacisoguidevs1/16928736) 
-The OWASP CISO Guide can be downloaded [from here](https://wiki.owasp.org/images/f/f0/Owasp-ciso-guide.docx) 
+You can download the presentation slides [from here](https://www.slideshare.net/slideshow/rochester-security-summit-presentation/781064) 
