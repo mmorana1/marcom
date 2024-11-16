@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2008-October 29
 venue: "OWASP CISO Breakfast Meeting"
-date: 2008-19-29
+date: 2008-10-29
 location: "Rochester, NY"
 ---
 
