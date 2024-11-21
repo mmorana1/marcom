@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * MSCSE, San Francisco Bay University, 1998
+* CCCSCs, University of California Berkeley, 1996
 * MSME, University of Padova, 1987
 
 Work experience
