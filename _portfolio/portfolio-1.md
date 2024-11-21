@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis introduces the PASTA methodology, a risk-based approach to application threat modeling. The book provides an in-depth look at various threat modeling techniques, focusing on aligning security measures with the potential impact of identified threats, vulnerabilities, and attack patterns. The book can be purchased from Amazon
