@@ -1,9 +1,9 @@
 ---
-title: 'LinkedIn Posts & Articles'
-date: 2024-11-20
-permalink: /posts/2024/11/blog-post/
+title: 'Writing Secure Software Blog Posts'
+date: 2012-9-15
+permalink: /posts/2012/9/blog-post/
 
 ---
-These are all [LinkedIn posts](https://www.linkedin.com/in/go4it/recent-activity/all/) up to date and these are all [LinkedIn articles](https://www.linkedin.com/in/go4it/recent-activity/articles/) articles up to date 
+These are all [Blogspot.com posts](https://securesoftware.blogspot.com/) on "writing secure software"
 
 
