@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* MSCSE, San Francisco Bay University, 1998
-* CCCSCs, University of California Berkeley, 1996
-* MSME, University of Padova, 1987
+* Master of Science on Computer System Engineering, San Francisco Bay University, 1998
+* Coursework on Conputer Science, University of California Berkeley, 1996
+* Engineering Degree in Mechanical Engineering, University of Padova, 1987
 
 Work experience
 ======
