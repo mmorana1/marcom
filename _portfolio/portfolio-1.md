@@ -4,4 +4,4 @@ excerpt: "Risk-Centric Threat Modeling: Process for Attack Simulation and Threat
 collection: portfolio
 ---
 
-Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis introduces the PASTA methodology, a risk-based approach to application threat modeling. The book provides an in-depth look at various threat modeling techniques, focusing on aligning security measures with the potential impact of identified threats, vulnerabilities, and attack patterns. The book can be purchased [from Amazon] (https://www.amazon.com/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
+Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis introduces the PASTA methodology, a risk-based approach to application threat modeling. The book provides an in-depth look at various threat modeling techniques, focusing on aligning security measures with the potential impact of identified threats, vulnerabilities, and attack patterns. The book can be purchased [from Amazon](https://www.amazon.com/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964) 
