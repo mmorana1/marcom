@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Master of Science on Computer System Engineering, San Francisco Bay University, Freemont, California, USA 1998
-* Coursework on Conputer Science, University of California Berkeley, Berkeley, California, USA 1996
+* Coursework on Computer Science, University of California Berkeley, Berkeley, California, USA 1996
 * Engineering Degree in Mechanical Engineering, University of Padua, Padova, Italy 1987
 
 Work experience
