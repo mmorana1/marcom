@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis <br/><img src='/images/500x300.png'>"
+excerpt: "Risk-Centric Threat Modeling: Process for Attack Simulation and Threat Analysis"
 collection: portfolio
 ---
 
