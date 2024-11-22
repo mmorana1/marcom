@@ -1,12 +1,12 @@
 ---
-title: "Threat Modeling Insider: Risk Centric Threat Modeling"
+title: "The Talent Shortage in Information Security"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-August 23
-venue: "Tampa, FL, USA"
-date: 2022-8-23
-location: "Tampa, FL, USA"
+permalink: /talks/2020-February 2
+venue: "CISO West Millenium Alliance Workshop, FL, USA"
+date: 2020-2-2
+location: "GREEN VALLEY RANCH, LAS VEGAS, NV, FL, USA"
 ---
 
-The “Threat Modeling Insider” newsletter brings a combination of guest articles, white papers, curated articles and tips on threat modeling. The content is hosted by Toreon. The title of this interview is “Threat Modeling can be considered as fun as cooking a good PASTA meal.” Note: PASTA in the context of threat modeling stands for Process for Attack Simulation and Threat Analysis (PASTA) but methaphorically speaking can be made as fun as cooking pasta meals. You can read the Q&A of part I of the interview [here](https://www.toreon.com/tmi-newsletter-17-threat-modeling-can-be-considered-as-fun-as-cooking-a-good-pasta-meal/) and part II [here](https://www.toreon.com/tmi-newsletter-18-threat-modeling-can-be-considered-as-fun-as-cooking-a-good-pasta-meal-part-2/)
+This document captures key takeaways from Day 2 of the CISO West Millennium Alliance Workshop, focusing on strategies to address the ongoing information security talent shortage. The discussion emphasized prioritizing skills over certifications when hiring, assessing candidates' soft skills, and leveraging recruiters and social media to identify talent. Additionally, the importance of developing internal talent through training programs and career advancement opportunities was highlighted as a crucial approach to meeting staffing needs. You can download the presentation [here](https://www.slideshare.net/slideshow/is-talent-shortage-ws-marco-morana/227356525) and look at the event details, presenters bio and talks etc [here](https://mill-all.com/assemblies/transformational-ciso-west-august-2019/) 
 
