@@ -1,13 +1,13 @@
 ---
-title: "Application Threat Modeling"
+title: "Creating Actionable Intelligence and the Visualization of Big Data Analytics"
 collection: talks
 type: "Talk"
-permalink: /talks/2008-November 23
-venue: "OWASP Cincinnati, OH, USA"
-date: 2008-11-23
-location: "Cincinnati, Ohio"
+permalink: /talks/2014-October 7
+venue: "London, U.K."
+date: 2014-10-7
+location: "London, U.K."
 ---
 
-This presentation covers the topic of Application Threat Modeling (ATM) as a systematic approach to identifying security risks in software applications. It describes how ATM can be used at different stages of the software development lifecycle, from requirements to design to testing. The key steps of ATM include decomposing the application, identifying threats and vulnerabilities, analyzing attack vectors, and determining mitigation strategies. ATM helps prioritize risks and supports decision making around risk acceptance, avoidance, or mitigation  
-You can download the presentation slides [from here](https://www.slideshare.net/slideshow/application-threat-modeling-presentation/781073) 
+Collecting security and fraud data often results in a large, unstructured pool of facts. Adding context transforms data into actionable information, and triangulating multiple pieces creates intelligence indicative of active threats. This session explores how to generate actionable intelligence, the impact of emerging standards like TAXII/STIX on threat information sharing, and strategies for combining internal data with external threat intelligence feeds.   
+You can download the presentation slides [from here](https://www.bankinfosecurity.asia/webinars/creating-actionable-intelligence-visualization-big-data-analytics-w-466) 
 
