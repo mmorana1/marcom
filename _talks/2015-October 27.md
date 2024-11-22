@@ -1,13 +1,14 @@
 ---
-title: "Application Threat Modeling"
+title: "How to Stay One Step Ahead of a Fraudster's Threat"
 collection: talks
 type: "Talk"
-permalink: /talks/2008-November 23
-venue: "OWASP Cincinnati, OH, USA"
-date: 2008-11-23
-location: "Cincinnati, Ohio"
+permalink: /talks/2015-October 27
+venue: "Fraud Summit, The Tower hotel, London England"
+date: 2015-10-27
+location: "London, U.K."
 ---
 
-This presentation covers the topic of Application Threat Modeling (ATM) as a systematic approach to identifying security risks in software applications. It describes how ATM can be used at different stages of the software development lifecycle, from requirements to design to testing. The key steps of ATM include decomposing the application, identifying threats and vulnerabilities, analyzing attack vectors, and determining mitigation strategies. ATM helps prioritize risks and supports decision making around risk acceptance, avoidance, or mitigation  
-You can download the presentation slides [from here](https://www.slideshare.net/slideshow/application-threat-modeling-presentation/781073) 
+The threat of fraudsters breaching organizations continues to escalate, presenting ever-evolving challenges. However, there are effective tools and strategies to combat these risks. By leveraging proactive risk analysis and adopting robust fraud detection and prevention measures, you can stay ahead of these threats. In this session, we will explore the growing wave of cyber threats targeting online banking, including account takeovers, wire fraud, and APT-like malware. We explain H=how a risk-centric threat modeling approach can uncover insights into the tools, tactics, techniques, and procedures employed by fraudsters.
+
+You can download the presentation slides [from here](https://www.govinfosecurity.com/webinars/how-to-stay-one-step-ahead-fraudsters-threat-w-835) 
 
