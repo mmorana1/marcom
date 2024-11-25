@@ -1,13 +1,13 @@
 ---
-title: "Security Architecture In Theory and in Practice"
+title: "Enhancing the Development Life Cycle to Produce Secure Software"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-08-22
-excerpt: 'Security Architecture in Theory and in Practice: Why secuity should be considered among the main pillars of the enterprise architecture governance of any busienss/organization'
-date: August 2022
-venue: 'CIO Magazine'
-slidesurl: 'https://api.cioapplications.com/cxoinsights/security-architecture-in-theory-and-in-practice-why-security-should-be-considered-among-the-main-pillars-of-the-organizations-enterprise-architecture-nid-9991.html'
-paperurl: 'https://api.cioapplications.com/cxoinsights/security-architecture-in-theory-and-in-practice-why-security-should-be-considered-among-the-main-pillars-of-the-organizations-enterprise-architecture-nid-9991.html '
-citation: 'Marco Morana, (2022). &quot;August Issue .&quot; <i>CIO Magazine</i>. 1(1).'
+permalink: /publication/2008-October 1
+excerpt: 'Reference Guide on Security in the SDLC (S-SDLC) from US. Department on Homeland Security'
+date: October 2008
+venue: 'A reference guidebook on software assurance'
+slidesurl:'https://www.seas.upenn.edu/~lee/09cis480/papers/DACS-358844.pdf'
+paperurl: 'https://www.seas.upenn.edu/~lee/09cis480/papers/DACS-358844.pdf'
+citation: 'by KM Goertzel, Morana Marco. (Foundstone, Inc.) (Reviewer) &quot;October Issued Guideline from DHS .&quot; <i>Marco Morana (Reviewer) </i>. 1(1).'
 ---
-Security should be a core pillar of enterprise architecture because it underpins all business operations, ensuring that data, systems, and communications remain protected from threats. Integrating security into architecture aligns security practices with business goals, making it easier to address risks proactively. This holistic approach ensures resilience against evolving cyber threats while maintaining regulatory compliance and safeguarding the organization’s reputation and assets. Security considerations, when built into the architecture, also streamline operational efficiency and prevent vulnerabilities across the enterprise infrastructure.
+The growing extent of risk exposure from cyber threats is not yet fully understood. An increasing number of attacks specifically target software, as the majority of modern network and system-level exploits leverage vulnerabilities in application-layer software. These dynamics significantly heighten the risks to software-enabled capabilities and amplify the susceptibility of software-intensive systems to asymmetric cyber threats.Organizations that rely on software-intensive systems must establish a foundation for justified confidence in their software. Only by doing so can they trust these systems to perform dependably and securely, even under the pressure of ongoing attacks.
