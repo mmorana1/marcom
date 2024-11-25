@@ -1,12 +1,12 @@
 ---
-title: "Creating Actionable Intelligence and the Visualization of Big Data Analytics"
+title: "Accelerating Early Stage Innovation and Growth in Cyber-Start-Ups"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-October 7
-venue: "London, U.K."
-date: 2014-10-7
+permalink: /talks/2014-September 16
+venue: "The Global CyberSecurity Innovation Summit"
+date: 2014-9-16
 location: "London, U.K."
 ---
 
-Collecting security and fraud data often results in a large, unstructured pool of facts. Adding context transforms data into actionable information, and triangulating multiple pieces creates intelligence indicative of active threats. This session explores how to generate actionable intelligence, the impact of emerging standards like TAXII/STIX on threat information sharing, and strategies for combining internal data with external threat intelligence feeds. You can download the presentation slides [from here](https://www.bankinfosecurity.asia/webinars/creating-actionable-intelligence-visualization-big-data-analytics-w-466) 
+I participated in a panel discussion focused on the role of incubators, accelerators, and innovation hubs in fostering the growth of early-stage companies. The session explored how these initiatives provide critical support through innovation space, access to equipment, mentorship, and occasionally funding opportunities. Panelists, including key contributors to the cyber business ecosystem, shared insights on empowering the next generation of cybersecurity companies to transform ideas into innovative products and services. You can download the program [from here](https://www.security-innovation.org/wp-content/uploads/2016/09/SINET_Global_Cybersecurity_IS_Booklet_2014.pdf) 
 
