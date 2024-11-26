@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Avocado Systems, USA, November 2024 - Present, Field CISO, Lead for Financial Services and Product Security Engineering
+* Avocado Systems, Remote, USA, November 2024 - Present, Field CISO, Lead for Financial Services and Product Security Engineering
 
 * Vertex Inc, Remote, USA, September 2022 - October 2024, Head of Security in the SDLC (S-SDLC), Commercial Software Engineering Security Architect Lead
 
