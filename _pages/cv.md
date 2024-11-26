@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV (*)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-(*) Note: 
+Note: A detailed Curriculum Vitae (CV) is available upon request via email
 
 {% include base_path %}
 
@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-* Vertex Inc, Remote, USA, September 2022 - November 2024, Commercial Software Engineering Security Architect Lead
+* Vertex Inc, Remote, USA, September 2022 - November 2024, Head of Security in the SDLC (S-SDLC), Commercial Software Engineering Security Architect Lead
 
 * JP Morgan Chase Payments, North America, Tampa, FL 	May 2020 - September 2022, Executive Director, Head of Security Architecture
 
