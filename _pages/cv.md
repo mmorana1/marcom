@@ -18,8 +18,9 @@ Education
 
 Work experience
 ======
+* Avocado Systems, USA, November 2024 - Present, Field CISO, Lead for Financial Services and Product Security Engineering
 
-* Vertex Inc, Remote, USA, September 2022 - November 2024, Head of Security in the SDLC (S-SDLC), Commercial Software Engineering Security Architect Lead
+* Vertex Inc, Remote, USA, September 2022 - October 2024, Head of Security in the SDLC (S-SDLC), Commercial Software Engineering Security Architect Lead
 
 * JP Morgan Chase Payments, North America, Tampa, FL 	May 2020 - September 2022, Executive Director, Head of Security Architecture
 
