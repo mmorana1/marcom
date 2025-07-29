@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: training
 type: "Undergraduate course"
-permalink: /training/2014-spring-teaching-1
+permalink: /training/2025-AI-ThreatModeling
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
