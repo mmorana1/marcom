@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Building Secure Foundations: A Journey Through Security Engineering"
+title: "Building Secure Foundations: Reflections on Security Engineering"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,7 @@ redirect_from:
 ---
 About Me
 ------
-Hi, I’m Marco Morana.
-
-I spend most of my time thinking about one question: how do we build systems that are secure before attackers try to break them?
-
-I’m the Founder of Threat Modeling Academy LLC, where I deliver conference talks, executive briefings, and instructor-led training programs focused on threat modeling, secure architecture, and the security challenges surrounding emerging technologies. In parallel, I serve as a consulting Field CISO for Avocado Systems, a company building runtime threat modeling and security automation tools that help organizations understand risk in real time. Over the past 20+ years, I’ve worked across the financial sector in senior security roles at organizations such as JPMorgan Chase and Citigroup, helping teams secure large-scale financial platforms, digital assets, and emerging distributed technologies. Those experiences shaped the way I approach security today: not as a checklist, but as an architectural discipline that must be built into systems from the start. 
+Hi, I’m Marco Morana. Much of my work revolves around a simple but fundamental question: how can we design systems that are secure from the start—before attackers have the opportunity to exploit them? That question has shaped the way I approach security architecture, threat modeling, and risk management throughout my career. Today, I’m the Founder of Threat Modeling Academy LLC, where I deliver conference talks, executive briefings, and instructor-led training programs focused on threat modeling, secure architecture, and the security challenges surrounding emerging technologies. In parallel, I serve as a consulting Field CISO for Avocado Systems, a company building runtime threat modeling and security automation tools that help organizations understand risk in real time. Over the past 20+ years, I’ve worked across the financial sector in senior security roles at organizations such as JPMorgan Chase and Citigroup, helping teams secure large-scale financial platforms, digital assets, and emerging distributed technologies. Those experiences shaped the way I approach security today: not as a checklist, but as an architectural discipline that must be built into systems from the start. 
 
 Along the way I’ve also been fortunate to contribute to the broader security community. I helped develop the PASTA threat modeling methodology and authored the book Blockchain Application Security: How to Design Secure and Attack‑Resilient Blockchain Applications. I also co-lead the development of the OWASP AI Testing Guide, which is helping practitioners bring structured security testing and threat modeling to modern AI systems. Through Threat Modeling Academy, I focus on helping CISOs, security architects, and engineering teams translate complex security frameworks into practical, real-world approaches. My training programs and talks cover everything from cloud and API architectures to blockchain ecosystems, DeFi platforms, and AI-driven applications, always with a strong emphasis on security-by-design. I’m also an active contributor to the global security community through OWASP initiatives, mentorship, and industry collaboration, and I continue to explore how new technologies—from AI to decentralized systems—can be adopted securely and responsibly.
 
